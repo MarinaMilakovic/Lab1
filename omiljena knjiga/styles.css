@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+  font-family: cursive;
+  font-size: 40px;
+  font-style: italic;
+  color: azure;
+  margin: 20px;
+}
+body {
+  background-color: black;
+}
+p {
+  color: antiquewhite;
+  text-align: left;
+  margin: 2px;
+  font-size: 20px;
+  font-family: cursive;
+}
+img {
+  float: left;
+  margin-right: 20px;
+}
+ul,
+li {
+  color: antiquewhite;
+  font-size: 15px;
+  font-style: italic;
+  font-family: cursive;
+  margin: 15px;
+}
+ol,
+a {
+  font-size: small;
+  font-style: italic;
+  color: aqua;
+  text-align: end;
+}

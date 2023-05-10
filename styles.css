@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 14px;
+  display: table;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: black;
+}
+tr,
+td {
+  width: 30%;
+  height: 30%;
+}
