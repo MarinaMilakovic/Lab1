@@ -3,14 +3,17 @@ table {
   border-collapse: collapse;
   table-layout: fixed;
   font-size: 14px;
+  border: 1px solid black;
   display: table;
-  box-sizing: border-box;
-  text-indent: initial;
-  border-spacing: 2px;
-  border-color: black;
 }
 tr,
 td {
-  width: 30%;
-  height: 30%;
+  min-width: 50px;
+  width: 50px;
+  height: 30px;
+  border: 1px solid black;
+}
+.width-30 {
+  min-width: 30px;
+  width: 5%;
 }
